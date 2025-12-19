@@ -1,8 +1,6 @@
 # cloud-foundations
 README.md
 
-# Cloud Foundations
-
 This repository documents my hands-on learning and practical labs covering:
 - Linux fundamentals
 - Networking concepts
