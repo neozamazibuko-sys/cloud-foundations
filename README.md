@@ -7,6 +7,7 @@ This repository documents my hands-on learning and practical labs covering:
 - Linux fundamentals
 - Networking concepts
 - AWS core services
+- Azure core services
 
 The goal is to build a strong foundation for cloud engineering and cloud security roles.
 
